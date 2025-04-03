@@ -1,3 +1,3 @@
-Le modifie la ligne 1
-ligne2
+Le modifie la ligne 1 dans master
+Je modifie la ligne 2
 ligne3
